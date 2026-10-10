@@ -11,7 +11,7 @@ hackathon project 01
 ---
 
 ## 📽️ Demo Video
-- **3-Minute Walkthrough**: [Watch Video on YouTube/Loom](#) *(Replace with your video link)*
+- **3-Minute Walkthrough**: https://youtu.be/msJU252_7GU 
 - **Submission Portal**: Submitted to CyberHack Portal before 4:30 PM deadline.
 
 ---
