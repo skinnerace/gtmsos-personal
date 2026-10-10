@@ -36,6 +36,8 @@ The **Agentic Development Lifecycle (ADL)** engine moves security from passive r
 ## 🏗️ System Architecture
 
 ![Agentic Architecture Diagram](agentic_architecture_diagram-v2.png)
+<img width="3780" height="2370" alt="agentic_architecture_diagram-v2" src="https://github.com/user-attachments/assets/753feb51-acaf-47a8-9c26-de57c6bd271a" />
+
 
 ### **Key Stack Components:**
 - **Local Runtime**: ChromeOS Linux CLI workspace running Codex CLI and Semgrep 2.7.
